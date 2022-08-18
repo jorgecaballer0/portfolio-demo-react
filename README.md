@@ -1,2 +1,4 @@
-# Portfolio de prueba para practica de React
+# Portfolio de prueba
+
+> Para practicar Reaact y Rutas
 
